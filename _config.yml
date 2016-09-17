@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Julia Watzek"
+title                    : "JULIA WATZEK"
 title_separator          : "-"
 name                     : "Julia Watzek"
 description              : "Human primate studying animal cognition"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "juliawatzek"
 facebook:
   username               :
   app_id                 :
@@ -81,15 +81,15 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "Human primate studying animal cognition. Stats ninja and PhD student: I'm 98% chimp. And 50% banana!"
   location         : "Atlanta, GA"
-  email            :
-  uri              :
+  email            : "j.watzek@gmail.com"
+  uri              : "http://juliawatzek.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "jwatzek"
   google_plus      :
   keybase          :
   instagram        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "juliawatzek"
   vine             :
   weibo            :
   xing             :
