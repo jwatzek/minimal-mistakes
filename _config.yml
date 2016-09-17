@@ -79,17 +79,17 @@ analytics:
 author:
   name             : "Julia Watzek"
   avatar           : "bio-photo.jpg"
-  bio              : "Human primate studying animal cognition. Stats ninja and PhD student: I'm 98% chimp. And 50% banana!"
+  bio              : "Stats ninja and PhD student. 98% chimp. And 50% banana!"
   location         : "Atlanta, GA"
   email            : "j.watzek@gmail.com"
-  uri              : "http://juliawatzek.com"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jwatzek"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "juliawatzek"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
