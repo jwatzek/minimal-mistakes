@@ -1,6 +1,5 @@
 ---
 title: "Hello World!"
-layout: single
 tags:
   - cooperation
   - reciprocity
