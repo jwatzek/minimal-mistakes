@@ -1,8 +1,5 @@
 ---
 title: "Hello World!"
-categories:
-  - Research
-  - Cooperation
 tags:
   - cooperation
   - reciprocity
