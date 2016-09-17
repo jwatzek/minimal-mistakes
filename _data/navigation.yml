@@ -3,5 +3,12 @@ main:
   - title: "Sample Navigation Link"
     url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 
-  - title: "Sample Navigation Link 2"
+  - title: "Research"
     url: /
+
+  - title: "Teaching"
+    url: /
+
+  - title: "CV"
+    url: /
+
