@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "JULIA WATZEK"
+title                    : "Julia Watzek"
 title_separator          : "-"
 name                     : "Julia Watzek"
 description              : "Human primate studying animal cognition"
@@ -67,6 +67,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/juliawatzek"
 
 # Analytics
 analytics:
@@ -170,6 +171,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
