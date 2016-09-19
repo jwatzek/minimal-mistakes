@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Julia Watzek"
   avatar           : "bio-photo.jpg"
-  bio              : "Stats ninja and PhD student. 98% chimp. And 50% banana!"
+  bio              : "Phd Student. Stats Ninja. Data Monkey. 98% chimp. And 50% banana!"
   location         : "Atlanta, GA"
   email            : "j.watzek@gmail.com"
   uri              : 
@@ -189,8 +189,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
