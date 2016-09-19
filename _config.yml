@@ -49,9 +49,9 @@ atom_feed:
 
 # SEO Related
 google_site_verification :
-bing_site_verification   :
+bing_site_verification   : "0FC3FD70512616B052E755A56F8952D"
 alexa_site_verification  :
-yandex_site_verification :
+yandex_site_verification : "2132801JL"
 
 # Social Sharing
 twitter:
@@ -71,9 +71,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-69409925-1
 
 
 # Site Author
