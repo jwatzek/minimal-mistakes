@@ -41,5 +41,5 @@ intro:
 <div style="text-align: center">
 <span style="font-size: 1.953em; font-family: serif; font-style: italic;">Do, or do not. There is no try.</span><br/>
 
-<span style="font-size: 0.75em;">&mdash; Master Yoda in Star Wars V: The Empire Strikes Back</span>
+<span style="font-size: 0.75em;">&mdash; Master Yoda in <em>Star Wars V: The Empire Strikes Back</em></span>
 </div>
