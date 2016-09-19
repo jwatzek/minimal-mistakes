@@ -3,11 +3,14 @@ title: "Bio"
 permalink: /bio/
 header:
   image: vervets.jpg
+excerpt: I'm a PhD student in the Cognitive Sciences programme at Georgia State University. I work with Sarah Brosnan at the Comparative Economics and Behavioral Studies Lab (CEBUS Lab) and with Eyal Aharoni at the Cooperation, Conflict, & Cognition Lab (CCC Lab).
 ---
 
 <!-- {% include toc title=page.title %} -->
 
 [<i class='fa fa-file-pdf-o'></i> Download CV](https://docs.google.com/viewer?url=https://github.com/jwatzek/cv/raw/master/cv.pdf){: .btn}
+
+I'm a PhD student in the Cognitive Sciences programme at Georgia State University. I work with Sarah Brosnan at the Comparative Economics and Behavioral Studies Lab ([CEBUS Lab](http://www.sarah-brosnan.com/lab)) and with Eyal Aharoni at the Cooperation, Conflict, & Cognition Lab ([CCC Lab](http://www.aharonilab.com))
 
 Previously, I worked with Frans de Waal at the [Living Links Center for the Advanced Study of Ape and Human Evolution](http://emory.edu/LIVING_LINKS). While there, I managed three groups of chimpanzees and conducted behavioural tests of their social cognition as well as observational studies.
  
