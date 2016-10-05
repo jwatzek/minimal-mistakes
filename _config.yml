@@ -170,7 +170,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
   # _pages
   - scope:
       path: ""
