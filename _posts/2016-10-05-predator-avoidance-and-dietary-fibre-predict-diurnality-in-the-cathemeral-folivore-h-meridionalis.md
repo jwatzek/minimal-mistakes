@@ -6,7 +6,6 @@ header:
 tags:
   - Southern Bamboo Lemur
 excerpt: "[in press] Eppley TM, Watzek, J, Ganzhorn JU, & Donati G -- Behav Ecol Sociobiol"
-comments: true
 ---
 
 Some lemurs aren't strictly nocturnal or diurnal but are instead active more or less evenly throughout the 24-hour cycle. Our paper on cathemerality in the Southern bamboo lemur has been accepted!
