@@ -56,11 +56,11 @@ Actual use cases in my lab are three types of behavioral observations: scan samp
 ## Website Development
 
 {% capture fig_ll %}
-[![Living Links website]({{ site.url }}/images/living_links.png){: .align-center}](https://emory.edu/LIVING_LINKS)
+[![Living Links website]({{ site.url }}/images/living_links.png){: .align-center}](http://emory.edu/LIVING_LINKS)
 {% endcapture %}
 
 {% capture fig_mojo %}
-[![Mojo Fitness website]({{ site.url }}/images/mojo_fitness.png){: .align-center}](https://www.mojo.fitness)
+[![Mojo Fitness website]({{ site.url }}/images/mojo_fitness.png){: .align-center}](http://www.mojo.fitness)
 {% endcapture %}
 
 I made the website for my previous lab at the [Living Links Center for the Advanced Study of Ape and Human Evolution](http://emory.edu/LIVING_LINKS). It's simple and straightforward HTML and CSS from a time before responsive design was a consideration.
