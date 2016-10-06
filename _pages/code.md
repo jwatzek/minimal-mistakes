@@ -52,9 +52,6 @@ To address these problems, I developed WhatsOb, an Android app designed to allow
 
 Actual use cases in my lab are three types of behavioral observations: scan samples, focal samples, and ad lib data collection. I will be presenting a poster on the app at this year's meeting of the [Society for Computers in Psychology](http://www.scip.ws/) in Boston.
 
-**Note.** This part is under active development. Check back soon for updated content, screenshots, etc. 
-{: .notice--warning}
-
 
 ## Website Development
 
