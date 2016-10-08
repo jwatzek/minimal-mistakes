@@ -20,19 +20,23 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            <a href="{{ f_url }}"><img src=
+            {% if f.url %}<a href="{{ f_url }}">{% endif %}
+            <img src=
               {% if f.image_path contains "://" %}
                 "{{ f.image_path }}"
               {% else %}
                 "{{ f.image_path | prepend: "/images/" | prepend: base_path }}"
               {% endif %}
-            alt="{% if f.alt %}{{ f.alt }}{% endif %}"></a>
+            alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            {% if f.url %}</a>{% endif %}
           </div>
         {% endif %}
 
         <div class="archive__item-body">
           {% if f.title %}
-            <a href="{{ f_url }}" style="color: #494e52;"><h2 class="archive__item-title">{{ f.title }}</h2></a>
+            {% if f.url %}<a href="{{ f_url }}" style="color: #494e52;">{% endif %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+            {% if f.url %}</a>{% endif %}
           {% endif %}
 
           {% if f.excerpt %}
