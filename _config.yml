@@ -11,7 +11,8 @@ title                    : "Julia Watzek"
 title_separator          : "-"
 name                     : "Julia Watzek"
 description              : "Human primate studying animal cognition"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "http://localhost:4000" # for testing locally
+# url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jwatzek/jwatzek.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,7 +83,7 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "Phd Student. Stats Ninja. Data Monkey. 98% chimp. And 50% banana!"
   location         : "Atlanta, GA"
-  email            : "j.watzek@gmail.com"
+  email            : "hello@juliawatzek.com"
   uri              : 
   bitbucket        :
   codepen          :

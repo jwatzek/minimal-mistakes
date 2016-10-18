@@ -28,7 +28,7 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--success"
 intro:
-  - excerpt: "I'm a PhD student in the Cognitive Sciences programme at Georgia State University. I work with Sarah Brosnan at the Comparative Economics and Behavioral Studies Lab ([CEBUS Lab](http://www.sarah-brosnan.com/lab)) and with Eyal Aharoni at the Cooperation, Conflict, & Cognition Lab ([CCC Lab](http://www.aharonilab.com)). <br/><br/>[<i class='fa fa-pencil'></i> Email me](mailto:j.watzek@gmail.com){: .btn}"
+  - excerpt: "I'm a PhD student in the Cognitive Sciences programme at Georgia State University. I work with Sarah Brosnan at the Comparative Economics and Behavioral Studies Lab ([CEBUS Lab](http://www.sarah-brosnan.com/lab)) and with Eyal Aharoni at the Cooperation, Conflict, & Cognition Lab ([CCC Lab](http://www.aharonilab.com)). <br/><br/>[<i class='fa fa-pencil'></i> Email me](mailto:hello@juliawatzek.com){: .btn}"
 ---
 
 {% include feature_row id="intro" type="center" %}
