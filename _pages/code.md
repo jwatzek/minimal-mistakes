@@ -12,7 +12,7 @@ My languages of choice are R and Python for all things data science, but I find 
 
 Recently, I've been learning Java and XML for Android mobile development. My latest project is WhatsOb, an app for behavioral observations. My code's available on Github wherever possible (personal: [@jwatzek](http://github.com/jwatzek), organizational: [@gsu-lrc](http://github.com/gsu-lrc)).
 
-**Note.** Most of my R data analysis scripts currently live in private repos until they're (ready) to be published alongside a manuscript.
+**Note.** Most of my R data analysis scripts currently live in private repos until they're (ready to be) published alongside a manuscript.
 {: .notice}
 
 ## Stimulus Presentation
