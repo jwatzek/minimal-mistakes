@@ -7,6 +7,9 @@
    ========================================================================== */
 
 .sidebar {
+  -webkit-transform: translate3d(0, 0 , 0);
+          transform: translate3d(0, 0 , 0);
+
   @include clearfix();
   margin-bottom: 1em;
 
@@ -28,10 +31,6 @@
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
-  }
-
-  h3, h4 {
-    font-size: $type-size-5;
   }
 
   p, li {
