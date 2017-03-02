@@ -1,5 +1,5 @@
 ---
-title: "Predator avoidance and dietary fibre predict diurnality in the cathemeral folivore *H. meridionalis*"
+title: "Predator avoidance and dietary fibre predict diurnality in the cathemeral folivore *Hapalemur meridionalis*"
 header:
   image: hapalemur.jpg
   caption: "Photo credit: Katie Hall"
