@@ -19,7 +19,7 @@ feature_row:
   - image_path: sample-syllabus.png
     alt: "Sample syllabus"
     title: "Teaching"
-    excerpt: "I have taught *Statistics for Psychologists* and *Intro to R programming* and run workshops to teach R and Python for data wrangling and visualization, stimulus presentation, and mathematical simulations. <br/><br/>I have guest lectured on the topics of cooperation, comparative economics, decision-making, and social complexity in animal societies. In the future, I'll be teaching *Psychology of Animal Behavior*."
+    excerpt: "I have taught *Statistics for Psychologists* and *Intro to R programming* and run workshops to teach R and Python for data wrangling and visualization, stimulus presentation, and mathematical simulations. <br/><br/>I have guest lectured on the topics of cooperation, comparative economics, decision-making, and social complexity in animal societies (*Psychology of Animal Behavior* class). I'm currently slated to teach *Introduction to General Psychology*."
   - image_path: unsplash-code2.jpg
     alt: "Photo credit: Lee Campbell @Unsplash"
     title: "Code"
