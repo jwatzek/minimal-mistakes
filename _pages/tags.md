@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /tags/
-title: "Publications by Primate"
+title: "Publications by Species"
 author_profile: true
 ---
 
