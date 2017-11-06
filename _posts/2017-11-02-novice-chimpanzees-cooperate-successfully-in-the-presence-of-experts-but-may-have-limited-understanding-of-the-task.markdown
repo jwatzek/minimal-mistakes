@@ -3,7 +3,7 @@ title: Novice chimpanzees cooperate successfully in the presence of experts, but
 header:
     image: tara.jpg
 tags:
-  - Southern Bamboo Lemur
+  - Chimpanzee
 excerpt: "Suchak M, **Watzek J**, Quarles LF, de Waal FBM (*in press*) Anim Cog"
 comments: true
 ---
