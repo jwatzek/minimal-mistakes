@@ -50,7 +50,7 @@ For behavioral observations of both humans and animals, it is crucial not to los
 
 To address these problems, I developed WhatsOb, an Android app designed to allow for fast but accurate data capture with minimal device interaction. Preconfigured quick text buttons replace tedious typing and researchers can set up flexible observation formats for different study populations. The app allows configuration of several sets of quick text buttons to minimize screen clutter and increase versatility. Additionally, all entries are time-stamped automatically and researchers can schedule timers in the form of sound or onscreen notifications. Data files are exported as plain text or comma-separated values (CSV) files via email and common cloud file hosting services. 
 
-Actual use cases in my lab are three types of behavioral observations: scan samples, focal samples, and ad lib data collection. I will be presenting a poster on the app at this year's meeting of the [Society for Computers in Psychology](http://www.scip.ws/) in Boston.
+Actual use cases in my lab are three types of behavioral observations: scan samples, focal samples, and ad lib data collection.
 
 
 ## Website Development
@@ -63,16 +63,21 @@ Actual use cases in my lab are three types of behavioral observations: scan samp
 [![Mojo Fitness website]({{ site.url }}/images/mojo_fitness.png){: .align-center}](http://www.mojo.fitness)
 {% endcapture %}
 
+{% capture fig_pca %}
+[![Peach Cobbler ATL website]({{ site.url }}/images/peachcobbler.png){: .align-center}](http://www.peachcobbleratl.com)
+{% endcapture %}
+
 I made the website for my previous lab at the [Living Links Center for the Advanced Study of Ape and Human Evolution](http://emory.edu/LIVING_LINKS). It's simple and straightforward HTML and CSS from a time before responsive design was a consideration.
 
-As an avid rock climber, I also have a friend who recently started a business as a personal trainer and who needed a logo and a website. [And I got to make those.](http://www.mojo.fitness/) It's heavily bootstrapped with a few JS and PHP elements here and there.
+As an avid rock climber, I'm part of a climbing shoe resole shop called Peach Cobbler ATL. I also have a friend who recently started a business as a personal trainer and who needed a logo and a website. [And I got to make those.](http://www.mojo.fitness/) It's heavily bootstrapped with a few JS and PHP elements here and there.
 
 And I built the website you're on right now with [Jekyll](http://jekyllrb.com/) and  the [Minimal Mistakes Theme](https://mmistakes.github.io/minimal-mistakes/). You can find the code [here](http://github.com/jwatzek/jwatzek.github.io).
 
 <figure class="half">
     {{ fig_ll | markdownify | remove: "<p>" | remove: "</p>" }}
     {{ fig_mojo | markdownify | remove: "<p>" | remove: "</p>" }}
-    <figcaption>Landing pages of Living Links and Mojo Climbing & Fitness.</figcaption>
+    {{ fig_pca | markdownify | remove: "<p>" | remove: "</p>" }}
+    <figcaption>Landing pages of Living Links, Mojo Climbing & Fitness, and Peach Cobbler ATL.</figcaption>
 </figure>
 
 
