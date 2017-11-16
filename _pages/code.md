@@ -69,7 +69,7 @@ Actual use cases in my lab are three types of behavioral observations: scan samp
 
 I made the website for my previous lab at the [Living Links Center for the Advanced Study of Ape and Human Evolution](http://emory.edu/LIVING_LINKS). It's simple and straightforward HTML and CSS from a time before responsive design was much of a thing.
 
-As an avid rock climber, I'm part of a climbing shoe resole shop called [Peach Cobbler ATL](http://www.peachcobbleratl.com) and also have a friend who started a business as a personal trainer and who needed a [logo and a website](http://www.mojo.fitness/). Both websites are heavily bootstrapped with a few JS and PHP elements here and there.
+As an avid rock climber, I'm part of a climbing shoe resole shop called [Peach Cobbler ATL](http://www.peachcobbleratl.com) and also have a friend who started a business as a personal trainer and needed a [logo and a website](http://www.mojo.fitness/). Both websites are heavily bootstrapped with a few JS and PHP elements here and there.
 
 And I built the website you're on right now with [Jekyll](http://jekyllrb.com/) and  the [Minimal Mistakes Theme](https://mmistakes.github.io/minimal-mistakes/). You can find the code [here](http://github.com/jwatzek/jwatzek.github.io).
 
