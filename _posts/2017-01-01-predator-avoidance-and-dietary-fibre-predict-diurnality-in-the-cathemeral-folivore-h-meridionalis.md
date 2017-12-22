@@ -5,7 +5,7 @@ header:
   caption: "Photo credit: Katie Hall"
 tags:
   - Southern Bamboo Lemur
-excerpt: "Eppley TM, Watzek, J, Ganzhorn JU, Donati G (2017) Behav Ecol Sociobiol"
+excerpt: "Eppley TM, **Watzek J**, Ganzhorn JU, Donati G (2017) Behav Ecol Sociobiol"
 comments: true
 ---
 
