@@ -23,7 +23,7 @@ feature_row:
   - image_path: unsplash-code2.jpg
     alt: "Photo credit: Lee Campbell @Unsplash"
     title: "Code"
-    excerpt: "My languages of choice are R and Python for all things data science, but I find my way around Matlab and SAS as well. I use LaTeX for typesetting and the usual suspects for web development. <br/><br/>Recently, I've been learning Java and XML for Android mobile development. My latest project is WhatsOb, an app for behavioral observations. My code's available on Github wherever possible."
+    excerpt: "My languages of choice are R and Python for all things data science, but I find my way around Matlab and SAS as well. I use LaTeX for typesetting and the usual suspects for web development. <br/><br/>Recently, I've been learning Java and XML for Android mobile development. My latest project is WhatsOb, an app for behavioral observations. My code's available on Github wherever possible. "
     url: "/code/"
     btn_label: "Learn More"
     btn_class: "btn--success"
