@@ -1,5 +1,5 @@
 ---
-title: Social inhibition and behavioural flexibility when the context changes: a comparison across six primate species
+title: "Social inhibition and behavioural flexibility when the context changes: a comparison across six primate species"
 header:
     image: tara.jpg
 tags:
