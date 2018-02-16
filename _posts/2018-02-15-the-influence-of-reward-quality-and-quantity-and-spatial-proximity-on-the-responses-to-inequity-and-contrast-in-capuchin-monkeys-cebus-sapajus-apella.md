@@ -4,7 +4,7 @@ header:
   image: wren.jpg
 tags:
   - Tufted Capuchin Monkey
-excerpt: "Talbot CF, Parrish A, **Watzek J**, Essler JL, Leverett KL, Paukner A, Brosnan SF (2017) J Comp Psychol"
+excerpt: "Talbot CF, Parrish A, **Watzek J**, Essler JL, Leverett KL, Paukner A, Brosnan SF (2018) J Comp Psychol"
 comments: true
 ---
 
