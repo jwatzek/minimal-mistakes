@@ -1,5 +1,5 @@
 ---
-title: "The importance of a truly comparative methodology for comparative psychology"
+title: "[Review] The importance of a truly comparative methodology for comparative psychology"
 excerpt: "Smith MF, **Watzek J**, Brosnan SF (*in press*) Int J Comp Psychol"
 comments: true
 ---
