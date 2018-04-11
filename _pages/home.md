@@ -13,9 +13,6 @@ feature_row:
     alt: "Tara"
     title: "Research"
     excerpt: "My research focuses on how animals and humans make adaptive decisions in uncertain environments. In particular, I'm interested in understanding decision-making biases and seemingly irrational behavior in the context of an individual's physical and social environment."
-    url: "/research/"
-    btn_label: "Learn More"
-    btn_class: "btn--success"
   - image_path: sample-syllabus.png
     alt: "Sample syllabus"
     title: "Teaching"
@@ -24,8 +21,6 @@ feature_row:
     alt: "Photo credit: Lee Campbell @Unsplash"
     title: "Code"
     excerpt: "My languages of choice are R and Python for all things data science, but I find my way around Matlab and SAS as well. I use LaTeX for typesetting and the usual suspects for web development. <br/><br/>Recently, I've been learning Java and XML for Android mobile development. My latest project is WhatsOb, an app for behavioral observations."
-    btn_label: "Learn More"
-    btn_class: "btn--success"
 intro:
   - excerpt: "I'm a PhD student in the Cognitive Sciences programme at Georgia State University. I work with Sarah Brosnan at the Comparative Economics and Behavioral Studies Lab ([CEBUS Lab](http://www.sarah-brosnan.com/lab)) and with Eyal Aharoni at the Cooperation, Conflict, & Cognition Lab ([CCC Lab](http://www.aharonilab.com)). <br/><br/>[<i class='fa fa-pencil'></i> Email me](mailto:hello@juliawatzek.com){: .btn}"
 ---

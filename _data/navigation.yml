@@ -3,11 +3,6 @@ main:
   - title: "Bio"
     url: /bio/
 
-  - title: "Research"
-    url: /research/
-
   - title: "Publications"
     url: /publications/
 
-  - title: "Code"
-    url: /code/
