@@ -8,7 +8,7 @@ excerpt: I'm a PhD student in the Cognitive Sciences programme at Georgia State 
 
 <!-- {% include toc title=page.title %} -->
 
-I'm a PhD student in the Cognitive Sciences programme at Georgia State University. I work with Sarah Brosnan at the Comparative Economics and Behavioral Studies Lab ([CEBUS Lab](http://www.sarah-brosnan.com/lab)) and with Eyal Aharoni at the Cooperation, Conflict, & Cognition Lab ([CCC Lab](http://www.aharonilab.com)). I earned a MA in Psychology / Cognitive Sciences investigating how seemingly irrational behavior can be optimal in uncertain environments.
+I'm a PhD candidate in the Cognitive Sciences programme at Georgia State University. I work with Sarah Brosnan at the Comparative Economics and Behavioral Studies Lab ([CEBUS Lab](http://www.sarah-brosnan.com/lab)) and with Eyal Aharoni at the Cooperation, Conflict, & Cognition Lab ([CCC Lab](http://www.aharonilab.com)). I earned a MA in Psychology / Cognitive Sciences investigating how seemingly irrational behavior can be optimal in uncertain environments.
 
 Previously, I worked with Frans de Waal at the [Living Links Center for the Advanced Study of Ape and Human Evolution](http://emory.edu/LIVING_LINKS). While there, I managed three groups of chimpanzees and conducted behavioural tests of their social cognition as well as observational studies.
  
