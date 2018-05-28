@@ -16,3 +16,8 @@ Human and animal decision-making is known to violate rational expectations in a 
 
 **Watzek J**, Brosnan SF (2018) (Ir)rational choices of humans, rhesus macaques, and capuchin monkeys in dynamic stochastic environments. Cognition 178:109-117. [doi:10.1016/j.cognition.2018.05.019](https://doi.org/10.1016/j.cognition.2018.05.019)
 {: .notice--primary}
+
+[dataset] **Watzek J**, Brosnan SF (2018) Replication Data for: (Ir)rational choices of humans, rhesus macaques, and capuchin monkeys in dynamic stochastic environments. Harvard Dataverse, V1. [doi:10.7910/DVN/RWPGQT](https://doi.org/10.7910/DVN/RWPGQT)
+{: .notice--primary}
+
+
