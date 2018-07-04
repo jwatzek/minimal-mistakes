@@ -12,7 +12,7 @@ feature_row:
   - image_path: DSCF9884.JPG
     alt: "Tara"
     title: "Research"
-    excerpt: "My research focuses on how animals and humans make adaptive decisions in uncertain environments. In particular, I'm interested in understanding decision-making biases and seemingly irrational behavior in the context of an individual's physical and social environment."
+    excerpt: "My research focuses on how animals and humans make adaptive decisions in uncertain environments. In particular, I'm interested in understanding decision-making biases and seemingly irrational behavior in the context of an individual's physical and social environment. "
   - image_path: sample-syllabus.png
     alt: "Sample syllabus"
     title: "Teaching"
