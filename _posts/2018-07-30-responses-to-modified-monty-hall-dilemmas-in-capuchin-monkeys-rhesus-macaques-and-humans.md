@@ -1,7 +1,7 @@
 ---
 title: "Responses to modified Monty Hall Dilemmas in capuchin monkeys, rhesus macaques, and humans"
 header:
-    image: tara.jpg
+    image: wren.jpg
 tags:
   - Human
   - Rhesus Macaque
