@@ -3,7 +3,7 @@ title: "Bio"
 permalink: /bio/
 header:
   image: vervets.jpg
-excerpt: I'm a PhD student in the Cognitive Sciences programme at Georgia State University. I work with Sarah Brosnan at the Comparative Economics and Behavioral Studies Lab (CEBUS Lab) and with Eyal Aharoni at the Cooperation, Conflict, & Cognition Lab (CCC Lab).
+excerpt: I'm a PhD student in the Cognitive Sciences programme at Georgia State University. I mainly work with Sarah Brosnan at the Laboratory for Comparative Economics and Behavioral Studies Lab (CEBUS Lab).
 ---
 
 <!-- {% include toc title=page.title %} -->
