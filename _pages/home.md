@@ -22,7 +22,7 @@ feature_row:
     title: "Code"
     excerpt: "My languages of choice are R and Python for all things data science, but I find my way around Matlab and SAS as well. I use LaTeX for typesetting and the usual suspects for web development. <br/><br/>Recently, I've been learning Java and XML for Android mobile development. My latest project is WhatsOb, an app for behavioral observations."
 intro:
-  - excerpt: "I'm a PhD candidate in the Cognitive Sciences programme at Georgia State University. I mainly work with Sarah Brosnan at the Laboratory for Comparative Economics and Behavioral Studies ([CEBUS Lab](http://www.sarah-brosnan.com/lab)) and at Zoo Atlanta (with Joe Mendelson). In Fall 2018, I will be conducting fieldwork in Bihar, India as a visiting research scholar in the Evolution, Variation, and Ontogeny of Learning Laboratory ([EVO Learn Lab](http://www.cristinelegare.com/lab/)) led by Cristine Legare at UT Austin. <br/><br/>[<i class='fa fa-pencil'></i> Email me](mailto:hello@juliawatzek.com){: .btn}"
+  - excerpt: "I'm a PhD candidate in the Cognitive Sciences programme at Georgia State University. I mainly work with Sarah Brosnan at the Laboratory for Comparative Economics and Behavioral Studies ([CEBUS Lab](http://www.sarah-brosnan.com/lab)) and at Zoo Atlanta (with Joe Mendelson). <br/><br/>In Fall 2018, I will be conducting fieldwork in Bihar, India as a visiting research scholar in the Evolution, Variation, and Ontogeny of Learning Laboratory ([EVO Learn Lab](http://www.cristinelegare.com/lab/)) led by Cristine Legare at UT Austin. <br/><br/>[<i class='fa fa-pencil'></i> Email me](mailto:hello@juliawatzek.com){: .btn}"
 ---
 
 {% include feature_row id="intro" type="center" %}
