@@ -10,7 +10,7 @@ excerpt: I'm a PhD student in the Cognitive Sciences programme at Georgia State 
 
 I'm a PhD candidate in the Cognitive Sciences programme at Georgia State University. I mainly work with Sarah Brosnan at the Laboratory for Comparative Economics and Behavioral Studies ([CEBUS Lab](http://www.sarah-brosnan.com/lab)), studying decision-making in capuchin monkeys, rhesus macaques, and humans. I earned a MA in Psychology / Cognitive Sciences investigating how seemingly irrational behavior can be optimal in uncertain environments.
 
-Through a collaboration with Joe Mendelson, I also run cognitive tests with reptiles at Zoo Atlanta. And in Fall 2018, I will be conducting fieldwork with kids in Manipur, India as a visiting research scholar in the Evolution, Variation, and Ontogeny of Learning Laboratory ([EVO Learn Lab](http://www.cristinelegare.com/lab/)) led by Cristine Legare at the University of Texas at Austin.
+Through a collaboration with Joe Mendelson, I also run cognitive tests with reptiles at Zoo Atlanta. Currently (Fall 2018), I am conducting fieldwork with children in Manipur, India as a visiting research scholar in the Evolution, Variation, and Ontogeny of Learning Laboratory ([EVO Learn Lab](http://www.cristinelegare.com/lab/)) led by Cristine Legare at the University of Texas at Austin.
 
 Previously, I worked with Frans de Waal at the [Living Links Center for the Advanced Study of Ape and Human Evolution](http://emory.edu/LIVING_LINKS). While there, I managed three groups of chimpanzees and conducted behavioural tests of their social cognition as well as observational studies.
  
