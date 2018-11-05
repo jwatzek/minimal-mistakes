@@ -7,7 +7,7 @@ header:
   overlay_image: IMG_9699_landscape.jpg
   cta_label: "<i class='fa fa-institution'></i> Bio"
   cta_url: "/bio/"
-excerpt: "PhD Candidate. Stats Ninja. Data Monkey. <br/>98% chimp. And 50% banana!"
+excerpt: "PhD Candidate. Stats Ninja. Data Monkey. <br/>98% chimp. And 50% banana! <br/>One of [ManyPrimates](https://manyprimates.github.io)."
 feature_row:
   - image_path: DSCF9884.JPG
     alt: "Tara"
@@ -16,13 +16,15 @@ feature_row:
   - image_path: sample-syllabus.png
     alt: "Sample syllabus"
     title: "Teaching"
-    excerpt: "I have taught *Statistics for Psychologists* and *Intro to R programming* and run workshops to teach R and Python for data wrangling and visualization, stimulus presentation, and mathematical simulations. <br/><br/>At Georgia State, I've taught *Intro to General Psychology* and have guest lectured on a range of topics in courses such as *Psychology of Animal Behavior*, *Intro to Research Design & Analysis*, and *Primate Models of Human Behavior*."
+    excerpt: "I have taught *Statistics for Psychologists* and *Intro to R programming* and run workshops to teach R and Python for data wrangling and visualization, stimulus presentation, and mathematical simulations. <br/><br/>At Georgia State, I've taught *Intro to General Psychology* and guest lectured on a range of topics in courses such as *Psychology of Animal Behavior*, *Intro to Research Design & Analysis*, and *Primate Models of Human Behavior*."
   - image_path: unsplash-code2.jpg
     alt: "Photo credit: Lee Campbell @Unsplash"
     title: "Code"
     excerpt: "My languages of choice are R and Python for all things data science, but I find my way around Matlab and SAS as well. I use LaTeX for typesetting and the usual suspects for web development. <br/><br/>Recently, I've been learning Java and XML for Android mobile development. My latest project is WhatsOb, an app for behavioral observations."
 intro:
-  - excerpt: "I'm a PhD candidate in the Cognitive Sciences programme at Georgia State University. I mainly work with Sarah Brosnan at the Laboratory for Comparative Economics and Behavioral Studies ([CEBUS Lab](http://www.sarah-brosnan.com/lab)) and at Zoo Atlanta (with Joe Mendelson). <br/><br/>I am currently (Fall 2018) conducting fieldwork with children in Manipur, India as a visiting research scholar in the Evolution, Variation, and Ontogeny of Learning Laboratory ([EVO Learn Lab](http://www.cristinelegare.com/lab/)) led by Cristine Legare at UT Austin. <br/><br/>[<i class='fa fa-pencil'></i> Email me](mailto:hello@juliawatzek.com){: .btn}"
+  - excerpt: "I'm a PhD candidate in the Cognitive Sciences programme at Georgia State University. I mainly work with Sarah Brosnan at the Laboratory for Comparative Economics and Behavioral Studies ([CEBUS Lab](http://www.sarah-brosnan.com/lab)) and some at Zoo Atlanta (through a collaboration with Joe Mendelson). <br/><br/>
+
+  I am currently (Fall 2018) conducting fieldwork with children in Manipur, India as a visiting research scholar in the Evolution, Variation, and Ontogeny of Learning Laboratory ([EVO Learn Lab](http://www.cristinelegare.com/lab/)) led by Cristine Legare at UT Austin. <br/><br/>[<i class='fa fa-pencil'></i> Email me](mailto:hello@juliawatzek.com){: .btn}"
 ---
 
 {% include feature_row id="intro" type="center" %}
