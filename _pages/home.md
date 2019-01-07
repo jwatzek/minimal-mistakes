@@ -16,7 +16,7 @@ feature_row:
   - image_path: sample-syllabus.png
     alt: "Sample syllabus"
     title: "Teaching"
-    excerpt: "At Georgia State, I'll be teaching *Intro to Research Design & Analysis* in Spring 2019, have previously taught *Intro to General Psychology* and guest lectured on a range of topics in courses such as *Psychology of Animal Behavior* and *Primate Models of Human Behavior*.<br/><br/>
+    excerpt: "At Georgia State, I'm teaching *Intro to Research Design & Analysis* in Spring 2019, have previously taught *Intro to General Psychology* and guest lectured on a range of topics in courses such as *Psychology of Animal Behavior* and *Primate Models of Human Behavior*.<br/><br/>
     Previously, I have taught *Statistics for Psychologists* and *Intro to R programming* and have run workshops to teach R and Python for data wrangling and visualization, stimulus presentation, and mathematical simulations."
   - image_path: unsplash-code2.jpg
     alt: "Photo credit: Lee Campbell @Unsplash"
