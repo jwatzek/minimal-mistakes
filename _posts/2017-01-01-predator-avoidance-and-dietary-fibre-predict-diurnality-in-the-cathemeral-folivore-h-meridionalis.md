@@ -6,7 +6,6 @@ header:
 tags:
   - Southern Bamboo Lemur
 excerpt: "Eppley TM, **Watzek J**, Ganzhorn JU, Donati G (2017) Behav Ecol Sociobiol"
-comments: true
 ---
 
 ## Abstract

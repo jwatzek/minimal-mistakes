@@ -10,7 +10,6 @@ tags:
   - Orangutan
   - Spider Monkey
 excerpt: "Amici F, Call J, **Watzek J**, Brosnan SF, Aureli F (2018) Sci Rep"
-comments: true
 ---
 
 ## Abstract

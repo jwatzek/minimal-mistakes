@@ -7,7 +7,6 @@ tags:
   - Rhesus Macaque
   - Tufted Capuchin Monkey
 excerpt: "**Watzek J**, Whitham W, Washburn DA, Brosnan SF (2018) Int J Comp Psychol"
-comments: true
 ---
 
 ## Abstract

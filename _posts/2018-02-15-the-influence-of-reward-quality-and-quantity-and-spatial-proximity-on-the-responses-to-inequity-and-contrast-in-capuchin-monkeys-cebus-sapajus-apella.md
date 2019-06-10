@@ -5,7 +5,6 @@ header:
 tags:
   - Tufted Capuchin Monkey
 excerpt: "Talbot CF, Parrish A, **Watzek J**, Essler JL, Leverett KL, Paukner A, Brosnan SF (2018) J Comp Psychol"
-comments: true
 ---
 
 ## Abstract

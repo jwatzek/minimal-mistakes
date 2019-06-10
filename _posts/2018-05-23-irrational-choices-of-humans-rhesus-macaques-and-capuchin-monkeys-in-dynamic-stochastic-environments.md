@@ -7,7 +7,6 @@ tags:
   - Tufted Capuchin Monkey
   - Rhesus Macaque
   - Human
-comments: true
 ---
 
 ## Abstract

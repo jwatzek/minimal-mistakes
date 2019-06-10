@@ -6,7 +6,6 @@ header:
   caption: "Photo credit: [Sharon McCutcheon](https://unsplash.com/@sharonmccutcheon)"
 tags:
   - Human
-comments: true
 ---
 
 ## Abstract

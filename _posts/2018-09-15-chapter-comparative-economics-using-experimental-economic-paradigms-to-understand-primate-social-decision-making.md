@@ -1,7 +1,6 @@
 ---
 title: "[Chapter] Comparative economics: Using experimental economic paradigms to understand primate social decision-making"
 excerpt: "**Watzek J**, Smith MF, Brosnan SF (2018) In: Evolution of Primate Social Cognition"
-comments: true
 ---
 
 ## Abstract

@@ -5,7 +5,6 @@ header:
 tags:
   - Chimpanzee
 excerpt: "Suchak M, **Watzek J**, Quarles LF, de Waal FBM (2018) Anim Cog"
-comments: true
 ---
 
 ## Abstract

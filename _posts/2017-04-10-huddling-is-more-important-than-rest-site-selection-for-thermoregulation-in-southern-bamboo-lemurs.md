@@ -6,7 +6,6 @@ header:
 tags:
   - Southern Bamboo Lemur
 excerpt: "Eppley TM, **Watzek J**, Dausmann KH, Ganzhorn JU, Donati G (2017) Anim Behav"
-comments: true
 ---
 
 ## Abstract

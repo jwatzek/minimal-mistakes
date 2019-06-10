@@ -5,7 +5,6 @@ header:
   image: pilot_sites.png
 tags:
   - ManyPrimates
-comments: true
 ---
 
 ## Abstract
