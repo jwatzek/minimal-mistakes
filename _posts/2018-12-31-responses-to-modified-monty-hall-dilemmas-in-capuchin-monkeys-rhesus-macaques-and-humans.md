@@ -15,6 +15,3 @@ The Monty Hall Dilemma (MHD) is a simple probability puzzle famous for its count
 
 **Watzek J**, Whitham W, Washburn DA, Brosnan SF (2018) Responses to modified Monty Hall Dilemmas in capuchin monkeys, rhesus macaques, and humans. Int J Comp Psychol 31. [https://escholarship.org/uc/item/1jn0t21r](https://escholarship.org/uc/item/1jn0t21r) &middot; [[publisher's version]](/pdfs/Watzek_etal_2018_IJCP.pdf) &middot; [[dataset]](https://doi.org/10.7910/DVN/KAGLJU)
 {: .notice--primary}
-
-[dataset] **Watzek J**, Whitham W, Washburn DA, Brosnan SF (2018) Replication Data for: Responses to modified Monty Hall Dilemmas in capuchin monkeys, rhesus macaques, and humans. Harvard Dataverse, V1. [doi:10.7910/DVN/KAGLJU](https://doi.org/10.7910/DVN/KAGLJU)
-{: .notice--primary}
