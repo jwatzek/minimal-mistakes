@@ -1,5 +1,5 @@
 ---
-title: "[Preprint] Establishing an infrastructure for collaboration in primate cognition research"
+title: "Establishing an infrastructure for collaboration in primate cognition research"
 excerpt: "Many Primates et al. (*in press*)"
 header:
   image: pilot_sites.png
