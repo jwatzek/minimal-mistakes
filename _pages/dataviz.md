@@ -1,0 +1,61 @@
+---
+title: "Data Visualizations"
+permalink: /dataviz/
+header:
+  image: unsplash-code.jpeg
+  caption: "Photo credit: [Ilya Pavlov](https://unsplash.com/@ilyapavlov)"
+read_time: false
+gallery:
+  - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-48_loans.png
+    image_path: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-48_loans.png
+    title: "#TidyTuesday 2019-48 U.S. Student Loan Debt"
+  - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-47_nz_bird.png
+    image_path: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-47_nz_bird.png
+    title: "#TidyTuesday 2019-47 New Zealand Bird of the Year 2019"
+gallery2:
+  - url: sci/nakfi.png
+    image_path: sci/nakfi_th.png
+    title: "Watzek et al. (<i>submitted</i>)"
+  - url: sci/mp_review_phylo.png
+    image_path: sci/mp_review_phylo.png
+    title: "Many Primates et al. (<i>submitted</i>)"
+  - url: sci/mp_review_map.png
+    image_path: sci/mp_review_map.png
+    title: "Many Primates et al. (<i>submitted</i>)"
+  - url: sci/mp_pilot_overview.png
+    image_path: sci/mp_pilot_overview_th.png
+    title: "Many Primates et al. (2019) <i>PLOS ONE</i>"
+  - url: sci/cogset_dot.png
+    image_path: sci/cogset_dot.png
+    title: "Watzek et al. (2019) <i>Sci Rep</i>"
+  - url: sci/mhd_discounting.gif
+    image_path: sci/mhd_discounting.gif
+    title: "Watzek et al. (2018) <i>Cognition</i>"
+  - url: sci/mhd_cumulative.png
+    image_path: sci/mhd_cumulative.png
+    title: "Watzek et al. (2018) <i>Cognition</i>"
+  - url: sci/inequ_variable.png
+    image_path: sci/inequ_variable.png
+    title: "Talbot et al. (2018) <i>J Comp Psychol</i>"
+  - url: sci/chimp_learn.png
+    image_path: sci/chimp_learn_th.png
+    title: "Suchak et al. (2018) <i>Anim Cogn</i>"
+  - url: sci/hapa_huddle_network.png
+    image_path: sci/hapa_huddle_network.png
+    title: "Eppley et al. (2017) <i>Anim Behav</i>"
+---
+
+<!-- {% include toc title=page.title %} -->
+
+This is a collection of data visualizations I've made for scientific research articles and for [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a weekly data wrangling/visualization challenge with real-world data sets. All figures were coded in the [R programming language](https://cran.r-project.org/) and without any other image processing.
+
+## #TidyTuesday
+
+All code used to create these figures is [here](https://github.com/jwatzek/tidytuesday).
+
+{% include gallery %}
+
+## Scientific Publications
+
+{% include gallery id="gallery2" %}
+
