@@ -47,15 +47,17 @@ gallery2:
 
 <!-- {% include toc title=page.title %} -->
 
-This is a collection of data visualizations I've made for scientific research articles and for [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a weekly data wrangling/visualization challenge with real-world data sets. All figures were coded in the [R programming language](https://cran.r-project.org/) and without any other image processing.
+This is a collection of data visualizations I've made for [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a weekly data wrangling/visualization challenge with real-world data sets, and for scientific research articles. All figures were coded in the [R programming language](https://cran.r-project.org/) and did not involve any other image processing.
 
 ## #TidyTuesday
 
-All code used to create these figures is [here](https://github.com/jwatzek/tidytuesday).
+All code used to create these figures is [here](https://github.com/jwatzek/tidytuesday). (Click to enlarge.)
 
 {% include gallery %}
 
 ## Scientific Publications
+
+Selected figures from scientific journal articles. (Click to enlarge.)
 
 {% include gallery id="gallery2" %}
 
