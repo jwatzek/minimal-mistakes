@@ -6,6 +6,9 @@ header:
   caption: "Photo credit: [Ilya Pavlov](https://unsplash.com/@ilyapavlov)"
 read_time: false
 gallery:
+  - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-49_tickets_both.png
+    image_path: sci/2019-49_tickets_both_th.png
+    title: "#TidyTuesday 2019-49 Philadelphia Parking Tickets 2017"
   - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-48_loans.png
     image_path: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-48_loans.png
     title: "#TidyTuesday 2019-48 U.S. Student Loan Debt"
