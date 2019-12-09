@@ -21,10 +21,10 @@ gallery2:
     title: "Watzek et al. (<i>submitted</i>)"
   - url: sci/mp_review_phylo.png
     image_path: sci/mp_review_phylo.png
-    title: "Many Primates et al. (<i>submitted</i>)"
+    title: "Many Primates et al. (<i>in press</i>)"
   - url: sci/mp_review_map.png
     image_path: sci/mp_review_map.png
-    title: "Many Primates et al. (<i>submitted</i>)"
+    title: "Many Primates et al. (<i>in press</i>)"
   - url: sci/mp_pilot_overview.png
     image_path: sci/mp_pilot_overview_th.png
     title: "Many Primates et al. (2019) <i>PLOS ONE</i>"
