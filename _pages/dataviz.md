@@ -6,6 +6,12 @@ header:
   caption: "Photo credit: [Ilya Pavlov](https://unsplash.com/@ilyapavlov)"
 read_time: false
 gallery:
+  - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-50_gapminder.gif
+    image_path: shttps://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-50_gapminder.gif
+    title: "#TidyTuesday 2019-50 Replicating plots in R"
+  - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-50_gapminder_static.png
+    image_path: shttps://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-50_gapminder_static.png
+    title: "#TidyTuesday 2019-50 Replicating plots in R"
   - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-49_tickets_both.png
     image_path: sci/2019-49_tickets_both_th.png
     title: "#TidyTuesday 2019-49 Philadelphia Parking Tickets 2017"
