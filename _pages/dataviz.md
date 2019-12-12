@@ -70,19 +70,19 @@ This is a collection of data visualizations I've made for [#TidyTuesday](https:/
 
 ## #TidyTuesday
 
-All code used to create these figures is [here](https://github.com/jwatzek/tidytuesday). (Click to enlarge.)
+All code used to create these figures is [here](https://github.com/jwatzek/tidytuesday). (Click figures to enlarge.)
 
 {% include gallery %}
 
 ## Peach Cobbler ATL
 
-My spouse built and runs a climbing shoe resoling business, called [Peach Cobbler ATL](http://www.peachcobbleratl.com/). I made some fun graphs for 2019 data (through November).
+My spouse built and runs a climbing shoe resoling business, called [Peach Cobbler ATL](http://www.peachcobbleratl.com/). I made some fun graphs for the 2019 data (through November). (Click figures to enlarge.)
 
 {% include gallery id="gallery3" %}
 
 ## Scientific Publications
 
-Selected figures from scientific journal articles. (Click to enlarge.)
+Selected figures from scientific journal articles. (Click figures to enlarge.)
 
 {% include gallery id="gallery2" %}
 
