@@ -52,17 +52,33 @@ gallery2:
   - url: sci/hapa_huddle_network.png
     image_path: sci/hapa_huddle_network.png
     title: "Eppley et al. (2017) <i>Anim Behav</i>"
+gallery3:
+  - url: peachcobbler/peachcobbler2019_1.png
+    image_path: peachcobbler/peachcobbler2019_1.png
+    title: "Peach Cobbler ATL (Jan to Nov 2019) Shoe brands & models"
+  - url: peachcobbler/peachcobbler2019_2.png
+    image_path: peachcobbler/peachcobbler2019_2_th.png
+    title: "Peach Cobbler ATL (Jan to Nov 2019) Month-to-month, turnaround time, & shoe sizes"
+  - url: peachcobbler/peachcobbler2019_3.png
+    image_path: peachcobbler/peachcobbler2019_3.png
+    title: "Peach Cobbler ATL (Jan to Nov 2019) Repair services & order origin"
 ---
 
 <!-- {% include toc title=page.title %} -->
 
-This is a collection of data visualizations I've made for [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a weekly data wrangling/visualization challenge with real-world data sets, and for scientific research articles. All figures were coded in the [R programming language](https://cran.r-project.org/) and did not involve any other image processing.
+This is a collection of data visualizations I've made for [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), a weekly data wrangling/visualization challenge with real-world data sets, for fun, and for scientific research articles. All figures were coded in the [R programming language](https://cran.r-project.org/) and did not involve any other image processing.
 
 ## #TidyTuesday
 
 All code used to create these figures is [here](https://github.com/jwatzek/tidytuesday). (Click to enlarge.)
 
 {% include gallery %}
+
+## Peach Cobbler ATL
+
+My spouse built and runs a climbing shoe resoling business, called [Peach Cobbler ATL](http://www.peachcobbleratl.com/). I made some fun graphs for 2019 data (through November).
+
+{% include gallery id="gallery3" %}
 
 ## Scientific Publications
 
