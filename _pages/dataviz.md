@@ -6,6 +6,9 @@ header:
   caption: "Photo credit: [Ilya Pavlov](https://unsplash.com/@ilyapavlov)"
 read_time: false
 gallery:
+  - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-52_xmas_songs.png
+    image_path: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-52_xmas_songs.png
+    title: "#TidyTuesday 2019-52 Christmas Songs"
   - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-51_dogs.png
     image_path: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2019-51_dogs.png
     title: "#TidyTuesday 2019-51 Adoptable Dogs"
