@@ -4,7 +4,7 @@ header:
     image: tara.jpg
 tags:
   - Chimpanzee
-excerpt: "Campbell MW & **Watzek J**, Suchak M, Berman SM, de Waal FBM (*in press*) Am J Primatol"
+excerpt: "Campbell MW & **Watzek J**, Suchak M, Berman SM, de Waal FBM (2020) Am J Primatol"
 ---
 
 ## Abstract
