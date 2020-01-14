@@ -6,6 +6,9 @@ header:
   caption: "Photo credit: [Ilya Pavlov](https://unsplash.com/@ilyapavlov)"
 read_time: false
 gallery:
+  - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2020-03_passwords.png
+    image_path: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2020-03_passwords.png
+    title: "#TidyTuesday 2020-03 Passwords"
   - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2020-02_aus_fires2.png
     image_path: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2020-02_aus_fires2.png
     title: "#TidyTuesday 2020-02 Australian Fires"
