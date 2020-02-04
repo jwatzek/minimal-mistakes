@@ -6,6 +6,9 @@ header:
   caption: "Photo credit: [Ilya Pavlov](https://unsplash.com/@ilyapavlov)"
 read_time: false
 gallery:
+  - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2020-06_nfl_attendance.png
+    image_path: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2020-06_nfl_attendance.png
+    title: "#TidyTuesday 2020-05 San Francisco Trees"
   - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2020-05_sf_trees.png
     image_path: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2020-05_sf_trees.png
     title: "#TidyTuesday 2020-05 San Francisco Trees"
