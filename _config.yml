@@ -10,8 +10,8 @@ locale                   : "en"
 title                    : "Julia Watzek"
 title_separator          : "-"
 name                     : "Julia Watzek"
-description              : "Cognitive & Behavioral Scientist • Research Fellow • PhD Candidate • R, Python"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" "http://localhost:4000" 
+description              : "Cognitive & Behavioral Scientist | Research Fellow | PhD Candidate | R, Python"
+url                      : "http://localhost:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jwatzek/jwatzek.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Julia Watzek"
   avatar           : "bio-photo.jpg"
-  bio              : "Cognitive & Behavioral Scientist | Research Fellow | PhD Candidate | R, Python"
+  bio              : "PhD Candidate. Stats Ninja. Data Monkey. 98% chimp. And 50% banana!"
   location         : "Atlanta, GA"
   email            : "hello@juliawatzek.com"
   uri              : 
@@ -95,13 +95,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "jwatzek"
+  linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "watzoever"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
