@@ -2,7 +2,7 @@
 title: "Academic Bio"
 permalink: /bio/
 header:
-  image: vervets.jpg
+  image: brain_sky.jpeg
 excerpt: I'm a PhD candidate in the Cognitive Sciences programme at Georgia State University. I mainly work with Sarah Brosnan at the Laboratory for Comparative Economics and Behavioral Studies Lab (CEBUS Lab).
 ---
 
