@@ -10,8 +10,8 @@ locale                   : "en"
 title                    : "Julia Watzek"
 title_separator          : "-"
 name                     : "Julia Watzek"
-description              : "Human primate studying animal cognition"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Cognitive & Behavioral Scientist | Research Fellow | PhD Candidate | R, Python"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io" "http://localhost:4000" 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jwatzek/jwatzek.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -67,7 +67,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/j_watzek"
+    - "https://twitter.com/watzoever"
 
 # Analytics
 analytics:
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Julia Watzek"
   avatar           : "bio-photo.jpg"
-  bio              : "PhD Candidate. Stats Ninja. Data Monkey. 98% chimp. And 50% banana!"
+  bio              : "Cognitive & Behavioral Scientist | Research Fellow | PhD Candidate | R, Python"
   location         : "Atlanta, GA"
   email            : "hello@juliawatzek.com"
   uri              : 
@@ -95,13 +95,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "jwatzek"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "watzoever"
   vine             :
   weibo            :
   xing             :

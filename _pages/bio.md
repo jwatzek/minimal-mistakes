@@ -1,5 +1,5 @@
 ---
-title: "Bio"
+title: "Academic Bio"
 permalink: /bio/
 header:
   image: vervets.jpg
