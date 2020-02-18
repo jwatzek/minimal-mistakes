@@ -7,7 +7,7 @@ header:
 read_time: false
 gallery:
   - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2020-08_food_carbon.png
-    image_path: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2020-08_food_carbon_th.png
+    image_path: sci/2020-08_food_carbon_th.png
     title: "#TidyTuesday 2020-08 Food's Carbon Footprint"
   - url: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2020-07_hotels.png
     image_path: https://raw.githubusercontent.com/jwatzek/tidytuesday/master/plots/2020-07_hotels.png
