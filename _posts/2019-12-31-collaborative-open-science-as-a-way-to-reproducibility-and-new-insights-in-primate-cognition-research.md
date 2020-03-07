@@ -1,6 +1,6 @@
 ---
 title: "[Review] Collaborative open science as a way to reproducibility and new insights in primate cognition research"
-excerpt: "Many Primates [18 authors] (2019)"
+excerpt: "Many Primates [18 authors] (2019) Jpn Psychol Rev"
 header:
   image: review1.png
 tags:
