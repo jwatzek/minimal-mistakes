@@ -7,7 +7,7 @@ header:
   overlay_image: IMG_9699_landscape.jpg
   cta_label: "<i class='fa fa-institution'></i> Academic Bio"
   cta_url: "/bio/"
-excerpt: "Cognitive & Behavioral Scientist • Research Fellow <br/> R, Python • One of [ManyPrimates](https://manyprimates.github.io)"
+excerpt: "Cognitive & Behavioral Data Scientist • Research Fellow <br/> R, Python • One of [ManyPrimates](https://manyprimates.github.io)"
 feature_row:
   - image_path: DSCF9884.JPG
     alt: "Tara"
@@ -23,7 +23,7 @@ feature_row:
     title: "Code"
     excerpt: "My languages of choice are R and Python for all things data science, but I find my way around Matlab and SAS as well. I use LaTeX for typesetting and the usual suspects for web development. <br/><br/>Recently, I've been learning Java and XML for Android mobile development. A recent project is WhatsOb, an Android app for behavioral observations."
 intro:
-  - excerpt: "Cognitive & behavioral scientist with 10+ years of experience solving problems with data. Lifelong learner with strong communication, empathy, & technical skills. Excited about taking open-ended questions & finding answers that help you make better, data-driven decisions.<br/><br/>[<i class='fa fa-pencil'></i> Email me](mailto:hello@juliawatzek.com){: .btn}"
+  - excerpt: "Cognitive & behavioral data scientist with 10+ years of experience solving problems with data. Lifelong learner with strong communication, empathy, & technical skills. Excited about taking open-ended questions & finding answers that help you make better, data-driven decisions.<br/><br/>[<i class='fa fa-pencil'></i> Email me](mailto:hello@juliawatzek.com){: .btn}"
 ---
 
 {% include feature_row id="intro" type="center" %}
