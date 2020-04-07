@@ -7,7 +7,7 @@ header:
   overlay_image: IMG_9699_landscape.jpg
   cta_label: "<i class='fa fa-institution'></i> Academic Bio"
   cta_url: "/bio/"
-excerpt: "Cognitive & Behavioral Data Scientist <br/> Incoming Insight Data Science Fellow • One of [ManyPrimates](https://manyprimates.github.io)"
+excerpt: "Cognitive & Behavioral Data Scientist <br/> Incoming Insight Fellow • One of [ManyPrimates](https://manyprimates.github.io)"
 feature_row:
   - image_path: DSCF9884.JPG
     alt: "Tara"
