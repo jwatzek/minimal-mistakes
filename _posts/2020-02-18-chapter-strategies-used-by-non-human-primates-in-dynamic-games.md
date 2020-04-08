@@ -1,7 +1,6 @@
 ---
 title: "[Chapter] Strategies used by non-human primates in dynamic games"
 excerpt: "Smith MF, **Watzek J**, Brosnan SF (*in press*) In: Handbook of Experimental Game Theory"
-comments: true
 ---
 
 ## Abstract
