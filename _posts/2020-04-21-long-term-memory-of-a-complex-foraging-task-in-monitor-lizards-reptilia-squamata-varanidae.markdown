@@ -3,7 +3,7 @@ title: "Long-term memory of a complex foraging task in monitor lizards (Reptilia
 excerpt: "Cooper• & Zabinski• [& 10 others] (*in press*) J Herpetol"
 header:
   image: v_prasinus.jpg
-  caption: "Photo credit: [_paVan_](https://www.flickr.com/people/39483844@N03)"
+  caption: "Photo credit: [\_paVan\_](https://www.flickr.com/people/39483844@N03)"
 tags:
   - Emerald Tree Monitor
   - Mertens' Water Monitor
