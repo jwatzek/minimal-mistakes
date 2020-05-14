@@ -10,7 +10,7 @@ excerpt: I earned a PhD in Psychology / Cognitive Sciences from Georgia State Un
 
 I earned my PhD in Psychology / Cognitive Sciences from Georgia State University, studying decision-making biases in capuchin monkeys, rhesus macaques, and humans in the Laboratory for Comparative Economics and Behavioral Studies ([CEBUS Lab](http://www.sarah-brosnan.com/lab)).
 
-Through a broad network of collaborations, I have also explored a wider range of topics in cognitive psychology, with a particular focus on primate cognition, but also including problem-solving in zoo-housed reptiles; cross-cultural developmental field research in Manipur, India; and information neglect in judicial and policy decisions.
+Through a broad network of collaborations, I have also explored a wider range of topics in cognitive psychology, with a particular focus on primate cognition, but also including, e.g., problem-solving in zoo-housed reptiles; cross-cultural developmental field research in Manipur, India; and information neglect in judicial and policy decisions.
 
 ***
 
