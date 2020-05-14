@@ -3,6 +3,7 @@ title: "Academic Bio"
 permalink: /bio/
 header:
   image: brain_sky.jpeg
+read_time: false
 excerpt: I earned a PhD in Psychology / Cognitive Sciences from Georgia State University, studying decision-making biases within the primate lineage.
 ---
 
