@@ -1,13 +1,13 @@
 ---
 layout: splash
 permalink: /
-titlex: "<br/><br/>Julia Watzek"
+titlex: "<br/><br/>Julia Watzek, PhD"
 header:
   overlay_color: "#5e616c"
   overlay_image: IMG_9699_landscape.jpg
   cta_label: "<i class='fa fa-institution'></i> Academic Bio"
   cta_url: "/bio/"
-excerpt: "Cognitive & Behavioral Data Scientist <br/> Incoming Insight Fellow • One of [ManyPrimates](https://manyprimates.github.io)"
+excerpt: "Cognitive & Behavioral Data Scientist <br/> Insight Fellow • One of [ManyPrimates](https://manyprimates.github.io)"
 feature_row:
   - image_path: DSCF9884.JPG
     alt: "Tara"
@@ -16,8 +16,8 @@ feature_row:
   - image_path: sample-syllabus.png
     alt: "Sample syllabus"
     title: "Teaching"
-    excerpt: "At Georgia State, I've taught *Intro to* and *Advanced Research Design & Analysis*, *Intro to General Psychology*, and have guest lectured on a range of topics in courses such as *Psychology of Animal Behavior* and *Primate Models of Human Behavior*.<br/><br/>
-    Previously, I have taught *Statistics for Psychologists* and *Intro to R programming* and have run workshops to teach R and Python for data wrangling and visualization, stimulus presentation, and mathematical simulations."
+    excerpt: "At Georgia State, I taught *Intro to* and *Advanced Research Design & Analysis*, *Intro to General Psychology*, and guest lectured on a range of topics in courses such as *Psychology of Animal Behavior* and *Primate Models of Human Behavior*.<br/><br/>
+    Previously, I taught *Statistics for Psychologists* and *Intro to R programming* and have run workshops to teach R and Python for data wrangling and visualization, stimulus presentation, and mathematical simulations."
   - image_path: unsplash-code2.jpg
     alt: "Photo credit: Lee Campbell @Unsplash"
     title: "Code"
