@@ -2,7 +2,7 @@
 title: "Who Stacks Up?"
 permalink: /stacks/
 header:
-  image: brain_sky.jpeg
+  image: stacks_header.png
 read_time: false
 excerpt: Who Stacks Up? is a 'people to follow' recommendation system that connects users with content that they love and that keeps them coming back.
 ---
