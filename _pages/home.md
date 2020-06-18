@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-titlex: "<br/><br/>Julia Watzek, PhD"
+title: "<br/><br/>Julia Watzek, PhD"
 header:
   overlay_color: "#5e616c"
   overlay_image: IMG_9699_landscape.jpg
