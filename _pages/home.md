@@ -23,7 +23,7 @@ feature_row:
     title: "Code"
     excerpt: "My languages of choice are R and Python for all things data science, but I find my way around Matlab and SAS as well. I use LaTeX for typesetting and the usual suspects for web development. <br/><br/>Recently, I've been learning Java and XML for Android mobile development. A recent project is WhatsOb, an Android app for behavioral observations."
 intro:
-  - excerpt: "Cognitive & behavioral data scientist with 10+ years of experience solving problems with data. Lifelong learner with strong communication, empathy, & technical skills. Excited about taking open-ended questions & finding answers that help you make better, data-driven decisions.<br/><br/>[<i class='fa fa-pencil'></i> Email me](mailto:hello@juliawatzek.com){: .btn}"
+  - excerpt: "I am a cognitive and behavioral data scientist with a PhD from Georgia State University, where I studied why, when, and how humans and other primates make irrational decisions. I have extensive experience in experimental design and leveraging statistical analyses for causal inference, and have used my insights to guide decision making in judicial and policy contexts. As a Data Science Fellow at Insight, I consulted with the social media startup Stacks to build a 'people-to-follow' recommendation system that connects users with content that they love. For my next role, I am excited to bring the same mindset that helped Stacks keep their users engaged to build end-to-end solutions that empower stakeholders to make the most out of their products and services.<br/><br/>[<i class='fa fa-pencil'></i> Email me](mailto:hello@juliawatzek.com){: .btn}"
 ---
 
 {% include feature_row id="intro" type="center" %}
