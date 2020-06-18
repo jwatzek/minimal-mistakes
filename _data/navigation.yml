@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "Academic Bio"
     url: /bio/
@@ -8,4 +8,7 @@ main:
 
   - title: "Visualizations"
     url: /dataviz/
+
+  - title: "Insight Project"
+    url: /stacks/
 
