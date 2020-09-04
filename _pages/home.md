@@ -23,7 +23,9 @@ feature_row:
     title: "Code"
     excerpt: "My languages of choice are R and Python for all things data science, but I find my way around Matlab and SAS as well. I use LaTeX for typesetting and the usual suspects for web development. <br/><br/>Recently, I've been learning Java and XML for Android mobile development. A recent project is WhatsOb, an Android app for behavioral observations."
 intro:
-  - excerpt: "I am a cognitive and behavioral data scientist with a PhD from Georgia State University, where I studied why, when, and how humans and other primates make irrational decisions. I have extensive experience in experimental design and leveraging statistical analyses for causal inference, and have used my insights to guide decision making in judicial and policy contexts. I am excited to build end-to-end solutions that empower stakeholders to make the most out of their products and services.<br/><br/>[<i class='fa fa-pencil'></i> Email me](mailto:hello@juliawatzek.com){: .btn}"
+  - excerpt: "<strong>I am a data scientist who is driven to make sense of why people do what they do and to figure out how we can make better decisions.</strong><br/><br/>
+  In the past, this led me to the fields of psychology and cognitive science, where I earned my PhD studying why, when, and how humans and other primates make irrational decisions. I transitioned to a data career in industry to have a more direct impact by solving problems in people's day-to-day lives. As a data science fellow at Insight, I consulted with the social media startup Stacks to build them an end-to-end recommender system that helps users more easily connect with each other on the app and find content that they'll love.<br/><br/>
+Currently, I am extremely excited to use this drive and my skills as a data scientist at Audible to empower listeners to find relevant content that they meaningfully care about and to help them get the most out of the catalog.<br/><br/>[<i class='fa fa-pencil'></i> Email me](mailto:hello@juliawatzek.com){: .btn}"
 ---
 
 {% include feature_row id="intro" type="center" %}
