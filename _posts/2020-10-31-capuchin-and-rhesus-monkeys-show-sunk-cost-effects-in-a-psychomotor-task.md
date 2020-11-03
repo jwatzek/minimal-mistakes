@@ -1,5 +1,5 @@
 ---
-title: "[Preprint] Capuchin and rhesus monkeys show sunk cost effects in a psychomotor task"
+title: "Capuchin and rhesus monkeys show sunk cost effects in a psychomotor task"
 excerpt: "**Watzek J**, Brosnan SF (*in press*) Sci Rep"
 header:
   image: wren.jpg
